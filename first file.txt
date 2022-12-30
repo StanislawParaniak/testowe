@@ -1,2 +1,1 @@
-my first file with text
-track my changes
+echo "my first file with text"
